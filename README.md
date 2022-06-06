@@ -94,4 +94,9 @@
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
+  <br>
 
+ <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <img alt="Github Activity's" src="https://activity-graph.herokuapp.com/graph?username=Camerji12&theme=react-dark" /></a>
+  <br/>
