@@ -30,6 +30,10 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+&emsp;
+<a href="https://go.dev/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Go%20-%2314354C.svg?style=plastic&logo=go&logoColor=blue">
+  </a>
 </p>
 
 ### 👉 Frontend Development
