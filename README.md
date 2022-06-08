@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on final Project
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on my final Project.
+- 🌱 I’m currently learning Go.
 - ⚡ Fun fact: 92% of the world's currency exists only on computers.
 
 <br>
