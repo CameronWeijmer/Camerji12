@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my final Project.
 - 🌱 I’m currently learning Go.
 - ⚡ Fun fact: 92% of the world's currency exists only on computers.
-- 💻 [My personal portfolio](https://github-readme-streak-stats.herokuapp.com?user=Camerji12&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+- 💻 [My personal portfolio](www.cameronweijmer.com)
 
 <br>
 
