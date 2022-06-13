@@ -115,7 +115,7 @@
   </p>
   <br>
 
- <summary><b>⚡ Recent GitHub Activity</b></summary>
+ ### ⚡ Recent GitHub Activity</b>
   <br/>
    <img alt="Github Activity's" src="https://activity-graph.herokuapp.com/graph?username=Camerji12&theme=react-dark" /></a>
   <br/>
