@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on my Portfolio.
 - 🌱 I’m currently learning ABAP.
 - ⚡ Fun fact: 92% of the world's currency exists only on computers.
-- 💻 [My personal portfolio](www.cameronweijmer.com)
+- 💻 [My personal portfolio](https://cameronweijmer.com)
 
 <br>
 
