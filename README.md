@@ -10,7 +10,7 @@
 <br>
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Camerji12&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cameronweijmer&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <br>
 
@@ -104,11 +104,11 @@
 
   <br/>
   <p align="center">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Camerji12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=cameronweijmer&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
  <br>
   &nbsp;
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Camerji12&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt"Github Stats" height="192px"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cameronweijmer&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt"Github Stats" height="192px"/>
   <br/>
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -117,5 +117,5 @@
 
  ### ⚡ Recent GitHub Activity</b>
   <br/>
-   <img alt="Github Activity's" src="https://activity-graph.herokuapp.com/graph?username=Camerji12&theme=react-dark" /></a>
+   <img alt="Github Activity's" src="https://activity-graph.herokuapp.com/graph?username=cameronweijmer&theme=react-dark" /></a>
   <br/>
