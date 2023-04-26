@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on my Portfolio.
+- 🔭 I’m currently working on projects.
 - 🌱 I’m currently learning ABAP.
 - ⚡ Fun fact: 92% of the world's currency exists only on computers.
 - 💻 [My personal portfolio](https://cameronweijmer.com)
