@@ -54,6 +54,10 @@
 &emsp;
   <a href="#">
     <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  </a>
+&emsp;
+  <a href="#">
+    <img alt="vuejs" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
   </a> 
 </p>
 
