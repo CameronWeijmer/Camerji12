@@ -113,8 +113,3 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
   <br>
-
- ### ⚡ Recent GitHub Activity</b>
-  <br/>
-   <img alt="Github Activity's" src="https://activity-graph.herokuapp.com/graph?username=cameronweijmer&theme=react-dark" /></a>
-  <br/>
