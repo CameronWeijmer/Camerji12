@@ -53,7 +53,7 @@
   </a> 
 &emsp;
   <a href="#">
-    <img alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img alt="nuxtjs" src="https://img.shields.io/badge/vuejs-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </a> 
 </p>
 
