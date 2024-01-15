@@ -53,7 +53,7 @@
   </a> 
 &emsp;
   <a href="#">
-    <img alt="nuxtjs" src="https://img.shields.io/badge/vuejs-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+    <img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
   </a> 
 </p>
 
