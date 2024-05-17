@@ -95,20 +95,3 @@
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 	  &emsp;
 </p>
-
-<br/>
-
-### 📊 Github Stats
-
-  <br/>
-  <p align="center">
-    <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=cameronweijmer&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
- <br>
-  &nbsp;
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cameronweijmer&langs_count=10&show_icons=true&locale=en&layout=compact&theme=cobalt"Github Stats" height="192px"/>
-  <br/>
-  <br>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-  <br>
